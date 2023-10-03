@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 119, 0);
+}
+.krishnImage{
+    width: 100%;
+    
+}
+
+.heading{
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    background: transparent;
+    font-size: 40px;
+    color:rgb(92, 12, 12);
+    font-family: 'Gochi Hand', cursive;
+    font-weight: 500;
+}
+
+.countdown{
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    background: transparent;
+    font-size: 200px;
+    color:rgb(92, 12, 12);
+
+}
